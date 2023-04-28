@@ -1,0 +1,2 @@
+# practice-linda
+self exercise
